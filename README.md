@@ -11,12 +11,13 @@ This project was developed as part of an educational initiative in the field of 
 - **Mohamed Hesham**: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-hesham-abbas-8228242b2/)
 
 ## Supervisors
-- **Yara Ahmed** (Teaching Assistant): [LinkedIn Profile](https://www.linkedin.com/in/yara-ahmed-a542301bb/)
+- **Yara Ahmed** (Teaching Assistant): [LinkedIn Profile](https://www.linkedin.com/in/yara-ahmed-a542301bb/)  
+   *Special thanks to Yara for her invaluable guidance and support throughout the project.*
 - **Alyaa A. Hamza** (Professor): [LinkedIn Profile](https://www.linkedin.com/in/alyaa-a-hamza-896196111/)
 - **Nehal Anees Mansour** (Professor): [LinkedIn Profile](https://www.linkedin.com/in/nehal-anees-mansour-95784827a/)
 
 ## Project Description
-This project leverages the **Digispark board** to create a **Bad USB device** that mimics a keyboard or mouse when plugged into a system. The **payload** executed by this USB device connects back to an attacker-controlled server, granting remote access to the target machine. 
+This project leverages the **Digispark board** to create a **Bad USB device** that mimics a keyboard or mouse when plugged into a system. The **payload** executed by this USB device connects back to an attacker-controlled server, granting remote access to the target machine.
 
 ### Components:
 - **Digispark Board**: A small, inexpensive USB microcontroller used to simulate a keyboard or mouse.
@@ -43,11 +44,11 @@ To set up the project on your local machine, follow these steps:
      git clone https://github.com/your-username/bad-usb-project.git
      ```
    - Modify the PowerShell or Bash payload scripts if needed (located in the `payloads/` directory).
-   
+
 ### 3. **Run the Listener**
-   - Install Python and required libraries:
+   - Install the necessary library:
      ```bash
-     pip install -r requirements.txt
+     pip install requests
      ```
    - Run the listener script to wait for incoming reverse shell connections:
      ```bash
@@ -73,4 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 For any questions or feedback, feel free to reach out to the project team through their LinkedIn profiles listed above.
-
