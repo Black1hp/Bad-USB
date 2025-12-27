@@ -6,7 +6,7 @@ This project demonstrates the functionality of a **Bad USB** using the **Digispa
 This project was developed as part of an educational initiative in the field of **IoT Security** and **Penetration Testing**. It serves as a demonstration of the security vulnerabilities inherent in USB devices and the importance of securing IoT devices.
 
 ## Team Members
-- **Mohamed Saied** (Project Lead): [LinkedIn Profile](https://www.linkedin.com/in/black1hp/)
+- **Mohamed Saied** : [LinkedIn Profile](https://www.linkedin.com/in/black1hp/)
 - **Fady Mahrous**: [LinkedIn Profile](https://www.linkedin.com/in/fady-mahrous/)
 - **Mohamed Hesham**: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-hesham-abbas-8228242b2/)
 
@@ -73,3 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 For any questions or feedback, feel free to reach out to the project team through their LinkedIn profiles listed above.
+
