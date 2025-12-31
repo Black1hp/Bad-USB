@@ -5,6 +5,19 @@ This project demonstrates the functionality of a **Bad USB** using the **Digispa
 
 This project was developed as part of an educational initiative in the field of **IoT Security** and **Penetration Testing**. It serves as a demonstration of the security vulnerabilities inherent in USB devices and the importance of securing IoT devices.
 
+## Demo Video
+This demo video demonstrates the full attack flow, starting from plugging in the Digispark USB to successfully obtaining a reverse shell on the target machine.
+
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/26d8368b-91aa-4501-9648-7e3ac57f7d5e" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+
+
 ## Team Members
 - **Mohamed Saied** : [LinkedIn Profile](https://www.linkedin.com/in/black1hp/)
 - **Fady Mahrous**: [LinkedIn Profile](https://www.linkedin.com/in/fady-mahrous/)
@@ -74,3 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 For any questions or feedback, feel free to reach out to the project team through their LinkedIn profiles listed above.
+
